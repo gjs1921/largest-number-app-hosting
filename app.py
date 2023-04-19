@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1UBu1BZ5tKJDlWd4s57_t0U1jbxF2EaCS
 """
 
-pip install streamlit
-
 import streamlit as st
 
 def largest_of_three_numbers(a, b, c):
